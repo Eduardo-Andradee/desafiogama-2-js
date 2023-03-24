@@ -27,3 +27,4 @@ Projeto feito no Desafio 2 do Gama Experience #49, onde recebemos um projeto ref
 - Marjorie Caroline Tristão Ferreira 
 - Matheus Oliveira Sales 
 
+Website Github pages: https://eduardo-andradee.github.io/desafiogama-2-js/
